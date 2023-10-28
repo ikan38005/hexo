@@ -4,6 +4,6 @@ categories: []
 date: ''
 tags: []
 title: aja
-updated: 2023-10-28T9:13:51.233+3:0
+updated: 2023-10-28T9:19:48.199+3:0
 ---
-bebas
+![gambar/gambar](gambar/gambar)bebas
